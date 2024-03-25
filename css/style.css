@@ -14,12 +14,12 @@
     animation: logoAnimation 5s ease forwards; 
   }
   
-body{
-      font-family: "Poppins", serif;
-      background-color: #f1f1f1;
-      background-image: url("concrete_seamless.png");
-      background-repeat: repeat;
-    }
+  body {
+    font-family: 'Poppins', 'Serif';
+    background-image: url(../images/concrete_seamless.png);
+    background-color: #f1f1f1;
+  }
+    
     
 .nav_links {
       display: flex;
