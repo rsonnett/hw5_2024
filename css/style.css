@@ -10,9 +10,6 @@
     }
   }
   
-h1{
-    padding-top: 40px;
-}
 #logo {
     animation: logoAnimation 5s ease forwards; 
   }
@@ -89,8 +86,9 @@ header{
         top: 0px;
         width: 100%;
     }
-
-    /* Prevent navbar from covering other content */
+    h1{
+        padding-top: 40px;
+    }
     .about {
         padding-top: 80px;
     }
